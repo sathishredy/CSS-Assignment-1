@@ -1,0 +1,21 @@
+h1,h2{
+    color:crimson;
+}
+ #un{
+    text-decoration: line-through;
+}
+#bg,#a,#inu{
+    background-color: yellow;
+}
+#ud{
+    text-decoration: underline;
+}
+.ol{
+    color: maroon;
+}
+#u{
+    color: maroon;
+}
+.para{
+    color: maroon;
+}
